@@ -1,0 +1,27 @@
+
+.col-2{
+    background-color: #3f3639;
+    color: white;
+    min-height: 100vh;
+    height: 100%;
+}
+.accordion {
+    /* --bs-accordion-bg: #292627;
+    --bs-accordion-color:#ffffff; */
+    --bs-accordion-btn-bg: #3f3639;
+    --bs-accordion-btn-color:#ffffff;
+    --bs-accordion-active-bg: #100f10;
+    --bs-accordion-active-color: white;
+    --bs-accordion-btn-focus-box-shadow: none;
+   
+  }
+  /* .accordion-body {
+    background-color: yellow;
+  } */
+  
+  
+ 
+  
+
+ 
+  
