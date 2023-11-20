@@ -1,0 +1,22 @@
+
+.col-2{
+    background-color: rgb(228, 230, 236);
+    color: white;
+    min-height: 100vh;
+}
+.accordion {
+    --bs-accordion-btn-bg: #3f3639;
+    --bs-accordion-btn-color:#ffffff;
+    --bs-accordion-active-bg: #100f10;
+    --bs-accordion-active-color: white;
+    --bs-accordion-btn-focus-box-shadow: none;
+   
+  }
+ 
+  
+  
+ 
+  
+
+ 
+  
